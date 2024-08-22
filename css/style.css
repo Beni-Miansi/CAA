@@ -1,0 +1,118 @@
+body, html{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    font-family: 'Manrope', sans-serif;
+    font-size: 1,5em;
+    background-color: #1f2039;
+    color: white;
+}
+
+a, a:hover{
+    text-decoration: none;
+}
+
+.container{
+
+    background-color:black ;
+    height: 70%;
+    line-height: 70%;
+    padding: 50px 50px;
+    
+}
+
+.logo{
+    float: left; 
+    width: 20%;     
+}
+
+.logo-2{
+    float:inline-start;
+}
+
+
+.menu{
+    float: right;
+    font-size: 1,5em;
+}
+
+.menu a{
+    color: rgb(251, 249, 246);
+    margin-right: 20px;
+}
+
+.menu a:hover{
+    color: red;
+}
+
+.accueil, h2{
+    text-align: center;
+    
+}
+
+.contaner-section{
+    width: 100%;
+    max-width: 100%;
+    }
+
+.about{
+    text-align: left;
+}
+
+.desti{
+    float: right;
+}
+
+.photo{
+    width: 100%;
+    max-width: 100%;
+}
+
+#ifrm_1{
+    text-align: center;
+}
+
+.contact , h4{
+    text-align: center;
+}
+
+.footer{
+    background-color: red;
+}
+
+h4,.colorlib-social-icons{
+    text-align: left;
+    font-size: 2em;
+}
+
+.col-md-3,.colorlib-footer {
+    text-align: center;
+}
+
+.col-md-push-1, .colorlib-footer-links{
+    text-align: right;
+}
+
+.capture{
+    width:100px; 
+    padding:15px;
+    width: 400px;
+    box-shadow: 0 0 4px #ccc;
+text-align: center;
+color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+    
